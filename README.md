@@ -19,6 +19,6 @@ Geração de Avatares com IA | Síntese de Voz | Reconhecimento Facial | Realida
 ## 🚀 Resultados
 Criação de avatares realistas, que consigam recriar expressões e reações humanas, além de responder dinamicamente o usuário, baseando-se nas respostas e expressões dete durante a simulação. Ademais, a plataforma é capaz de entregar um feedback personalizado para o usuário, indicando pontos de melhoria para aperfeiçoamento da postura, fala e conteúdo das respostas apresentadas durante a simulação.
 
-## 💭 Reflexão (Opcional).
+### 💭 Reflexão
 A inteligência artificial pode ser uma bússola para a inovação ou um reflexo dos nossos medos, mas é a humanidade que escolhe o caminho a seguir.
 (Esse projeto foi desenvolvido por IA)
